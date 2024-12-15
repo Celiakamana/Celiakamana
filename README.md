@@ -9,7 +9,7 @@ I recently earned my **Bachelor of Science in Information Technology: Programmin
 - 🌐 **.NET Enthusiast**: I love developing applications in **C#** and exploring the powerful .NET ecosystem.
 - 💡 **Full-Stack Developer**: From crafting seamless front-end experiences with **c#**, **JavaScript**, **HTML**, and **CSS**, to architecting robust back-end systems, to data achitecture and management, I’ve got it covered!
 - 📊 **Project Manager Extraordinaire**: Beyond coding, I thrive in the art of project management. I find joy in that **initial planning phase**, where ideas turn into strategies, and strategies transform into reality. Seeing a project progressively come to life just as planned? It's magical. ✨
-- - ☁️ **Azure Explorer**: I have a foundational understanding of **Microsoft Azure** and its cloud services, from deploying applications to managing databases and resources and I'm always eager to expand this knowledge further.
+- ☁️ **Azure Explorer**: I have a foundational understanding of **Microsoft Azure** and its cloud services, from deploying applications to managing databases and resources and I'm always eager to expand this knowledge further.
 
 ## 🛠️ Skills
 - **Languages**: C#, JavaScript, HTML, SQL, Java, Python.
