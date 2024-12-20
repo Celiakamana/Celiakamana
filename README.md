@@ -3,7 +3,7 @@
 Welcome to my little corner of coding and tech universe! 🚀 I'm an **IT Professional** with a passion for creating efficient, user-friendly, and scalable solutions. Here's a bit more about me:
 
 ## 🎓 Recent Graduate
-I recently earned my **Bachelor of Science in Information Technology: Programming and Software Development**! 🎉 My academic journey was filled with challenges, growth, and a whole lot of inavative technologies. Now, I’m ready to take my skills to the next level and tackle real-world projects!
+I recently earned my **Bachelor of Science in Information Technology: Programming and Software Development**! 🎉 My academic journey was filled with challenges, growth, and a whole lot of innovative technologies. Now, I’m ready to take my skills to the next level and tackle real-world projects!
 
 ## 👩‍💻 What I Do
 - 🌐 **.NET Enthusiast**: I love developing applications in **C#** and exploring the powerful .NET ecosystem.
