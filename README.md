@@ -18,7 +18,7 @@ I recently earned my **Bachelor of Science in Information Technology: Programmin
 - **Database Management**: SQL is my playground for managing data efficiently. 💾
 
 ## 🧠 Currently Learning
-- 📊 **CSM**: studying and preparing to take the certified scrum master certifaction
+- 📊 **CSM**: studying and preparing to take the certified scrum master certification
 - ☕ **Java**: Expanding my object-oriented programming expertise.
 - 🐍 **Python**: Diving into the world of data analysis, machine learning, and scripting.
 
