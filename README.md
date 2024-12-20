@@ -14,7 +14,7 @@ I recently earned my **Bachelor of Science in Information Technology: Programmin
 ## 🛠️ Skills
 - **Languages**: C#, JavaScript, HTML, SQL, Java, Python.
 - **Frameworks & Tools**: I'm all about leveraging the right tools for the job —whether it’s .NET, ASP.NET Core, or modern JavaScript frameworks.
-- **Project Management**: I am experinced with different project management methodologies and frameworks(agile, SDLC, RAD, waterfall) and knowlegeable with the use for PM tools such as Ms Project, Ms Power BI.
+- **Project Management**: I am experienced with different project management methodologies and frameworks(agile, SDLC, RAD, waterfall) and knowlegeable with the use for PM tools such as Ms Project, Ms Power BI.
 - **Cloud Services**: Experience with **Azure** for app deployment, database management, and resource scaling.
 - **Database Management**: SQL is my playground for managing data efficiently. 💾
 
