@@ -7,10 +7,10 @@ Welcome to my little corner of coding and tech universe!I'm an **IT Professional
 -  **IT Project Management**: I thrive in the art of project management. I find joy in that initial planning phase, where ideas turn into strategies, and strategies transform into reality. Seeing a project progressively come to life just as planned? It's magical. I am experienced with different project management methodologies and frameworks(agile, SDLC, RAD, waterfall) and knowlegeable with the use for PM tools such as **Conflunece**, **JIRA**, **Ms Project**, **Ms Power BI**.
 -  **Azure Professional**: I love using  **Microsoft Azure** and its cloud services, from deploying applications to managing databases and resources and I'm always eager to expand my azure knowledge further as technology evolves.
 ## Currently Learning:
- -**IBM IT Project mananagament certification**: currently studying and going through the IBM IT Project managament course to aquire the certification. 
+-  **IBM IT Project mananagament certification**: currently studying and going through the IBM IT Project managament course to aquire the certification. 
 -  **CSM**: studying and preparing to take the certified scrum master certification by Feb 2026.
-- **Java**: I have been Expanding my object-oriented programming expertise and aadding a new language to my toolset since septemeber of 2025.
-- **Python**: I am currently Diving into the world of data analysis, machine learning, and scripting. My Goal is to be fully fluent in Machine Learning and train my first AI by the end of 2026.
+-  **Java**: I have been Expanding my object-oriented programming expertise and aadding a new language to my toolset since septemeber of 2025.
+-  **Python**: I am currently Diving into the world of data analysis, machine learning, and scripting. My Goal is to be fully fluent in Machine Learning and train my first AI by the end of 2026.
 ## What Drives Me
 I’m a lifelong learner with an ever-growing curiosity for tech and innovation. I love working on projects that challenge me to think critically, solve complex problems, and improve lives through technology.<br>
 I enjoy:
